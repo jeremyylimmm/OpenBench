@@ -7,7 +7,7 @@
         "path"      : "",
         "compilers" : ["clang"],
         "cpuflags"  : ["AVX2", "POPCNT"],
-        "systems"   : ["Mac", "Linux"]
+        "systems"   : ["darwin", "linux", "windows"]
     },
 
     "test_presets" : {
