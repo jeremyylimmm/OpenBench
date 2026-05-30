@@ -24,6 +24,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
+CSRF_TRUSTED_ORIGINS = ['https://unsectionalized-bonelike-lesa.ngrok-free.dev']
+
 HTML_MINIFY   = True
 APPEND_SLASH  = True
 
