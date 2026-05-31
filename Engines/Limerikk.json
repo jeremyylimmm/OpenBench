@@ -1,6 +1,6 @@
 {
     "private" : false,
-    "nps"     : 6000000,
+    "nps"     : 2000000,
     "source"  : "https://github.com/Rikki-Wallis/Limerikk",
 
     "build" : {
